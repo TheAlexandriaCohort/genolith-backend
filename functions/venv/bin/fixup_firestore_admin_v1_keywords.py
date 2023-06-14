@@ -1,4 +1,4 @@
-#!/Users/brytonherlong/Genolith-Backend/functions/venv/bin/python3.10
+#!/Users/brytonherlong/Genolith-Backend/functions/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 # Copyright 2022 Google LLC
 #
